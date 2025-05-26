@@ -3,4 +3,3 @@ venv/
 .dist/
 ngrok.exe
 __pycache__/
-azure_connect.py
